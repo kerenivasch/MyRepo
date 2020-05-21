@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/Empire Burlesque">
+    <dc:title>Empire Burlesque</dc:title>
+    <dc:artist>Bob Dylan</dc:artist>
+    <dc:country>USA</dc:country>
+    <dc:company>Columbia</dc:company>
+    <dc:price>10.90</dc:price>
+    <dc:year>1985</dc:year> 
+  </rdf:Description>
+<rdf:Description rdf:about="http://www.recshop.fake/cd/Hide your heart">
+    <dc:title>Hide your heart</dc:title>
+    <dc:artist>Bonnie Tyler</dc:artist>
+    <dc:country>UK</dc:country>
+    <dc:company>CBS Records</dc:company>
+    <dc:price>9.90</dc:price>
+    <dc:year>1988</dc:year> 
+  </rdf:Description>
+</rdf:RDF>
+ 
